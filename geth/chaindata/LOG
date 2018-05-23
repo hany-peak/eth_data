@@ -1,0 +1,12 @@
+=============== May 15, 2018 (UTC) ===============
+01:25:07.932655 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:25:07.938452 syncDir: sync /root/.ethereum/geth/chaindata: invalid argument
+01:25:07.938463 CURRENT: sync /root/.ethereum/geth/chaindata: invalid argument
+=============== May 15, 2018 (UTC) ===============
+01:29:50.886223 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:29:50.891754 syncDir: sync /root/.ethereum/geth/chaindata: invalid argument
+01:29:50.891844 CURRENT: sync /root/.ethereum/geth/chaindata: invalid argument
+=============== May 15, 2018 (UTC) ===============
+02:51:24.065695 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+02:51:24.080996 syncDir: sync /root/.ethereum/geth/chaindata: invalid argument
+02:51:24.081298 CURRENT: sync /root/.ethereum/geth/chaindata: invalid argument
